@@ -1,0 +1,21 @@
+2022-05-03 17:41:37,291     werkzeug-INFO    :  * Restarting with stat
+2022-05-03 17:41:38,024     werkzeug-WARNING :  * Debugger is active!
+2022-05-03 17:41:38,032     werkzeug-INFO    :  * Debugger PIN: 129-626-578
+2022-05-03 17:41:38,047     werkzeug-INFO    :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-03 17:43:22,488     werkzeug-INFO    :  * Restarting with stat
+2022-05-03 17:43:23,215     werkzeug-WARNING :  * Debugger is active!
+2022-05-03 17:43:23,222     werkzeug-INFO    :  * Debugger PIN: 129-626-578
+2022-05-03 17:43:23,231     werkzeug-INFO    :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-03 17:50:55,213     werkzeug-INFO    :  * Detected change in 'C:\\Users\\123\\Desktop\\flask_demo\\manager.py', reloading
+2022-05-03 17:50:55,268     werkzeug-INFO    :  * Restarting with stat
+2022-05-03 17:51:00,823     werkzeug-INFO    :  * Restarting with stat
+2022-05-03 17:51:01,556     werkzeug-WARNING :  * Debugger is active!
+2022-05-03 17:51:01,567     werkzeug-INFO    :  * Debugger PIN: 129-626-578
+2022-05-03 17:51:01,577     werkzeug-INFO    :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-03 17:51:26,197     werkzeug-INFO    :  * Restarting with stat
+2022-05-03 17:51:26,936     werkzeug-WARNING :  * Debugger is active!
+2022-05-03 17:51:26,944     werkzeug-INFO    :  * Debugger PIN: 129-626-578
+2022-05-03 17:51:26,952     werkzeug-INFO    :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-03 17:51:44,167     werkzeug-INFO    :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-03 17:52:02,816     werkzeug-INFO    : 127.0.0.1 - - [03/May/2022 17:52:02] "[33mGET / HTTP/1.1[0m" 404 -
+2022-05-03 17:52:08,341     werkzeug-INFO    : 127.0.0.1 - - [03/May/2022 17:52:08] "[37mGET /api/v1.0/hum HTTP/1.1[0m" 200 -
